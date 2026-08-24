@@ -1,7 +1,7 @@
 # Healthcare Dashboard
 
 A modern healthcare dashboard built as a frontend development skill assessment for **Coalition Technologies**. Features dynamic patient management, data visualization, and API integration.
-Visit https://healthcare-dashboard.aopv.dev for live preview.
+Visit https://healthcare-dashboard.apoorvdarshan.com for live preview.
 
 ![Healthcare Dashboard Screenshot](assets/screenshot.png)
 
